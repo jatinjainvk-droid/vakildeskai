@@ -1,0 +1,5 @@
+{
+  "name": "VakilDesk",
+  "description": "A comprehensive lawyer management system for single advocates and law firms, featuring case tracking, hearing reminders, and document management in Hindi and English.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
